@@ -12,7 +12,7 @@ This github repository contains notes about my Mendix journey.
 
 
 ### First impression
-A week ago I started my Mendix journey and got a first, very good impression using the Mendix academy entry-level program academy.mendix.com and the docs at docs.mendix.com.
+A week ago I started my Mendix journey and got a first, very good impression using the Mendix academy entry-level program https://academy.mendix.com and the docs at https://docs.mendix.com.
 Similar to Microsoft Visual Studio, the Mendix Studio Pro is a quite powerful IDE to develop apps. Beside Studio, there is the Mendix Marketplace with plenty of subcomponents useful for rapid application development. Also, on https://github.com/mendix there are additional tools like buildpacks for docker, cli, etc.
 
 Mendix as a Siemens company has strategic partnerships with SAP and AWS, see https://docs.mendix.com/partners. In Switzerland there is a well-known Mendix partner called Plain IT helping customers. 
